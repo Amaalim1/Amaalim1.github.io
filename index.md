@@ -53,7 +53,7 @@ permalink: /
 
 <div class="profile-layout">
   <div class="profile-sidebar">
-    <img src="/assets/profile.jpg" alt="Abdiaziz Maalim">
+   <img src="/suit.png" alt="Abdiaziz Maalim">
     <h2>Abdiaziz Maalim</h2>
     <div class="tagline">Cybersecurity student focused on detection engineering, threat intelligence, and blue teaming.</div>
     <ul>
