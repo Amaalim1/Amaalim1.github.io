@@ -1,1 +1,16 @@
-
+title: Abdiaziz Maalim
+description: >-
+  Cybersecurity student focused on detection engineering, threat intelligence,
+  and blue team operations.
+theme: minima
+minima:
+  skin: classic
+  social_links:
+    - { platform: github,   user_url: "https://github.com/Amaalim1" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/YOUR-LINKEDIN" }
+    - { platform: email,    user_url: "mailto:you@example.com" }
+header_pages:
+  - projects.md
+  - writeups.md
+plugins:
+  - jekyll-feed
