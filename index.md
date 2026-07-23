@@ -1,8 +1,4 @@
----
-layout: page
-title: Home
-permalink: /
----
+
 
 # Abdiaziz Maalim
 
@@ -31,5 +27,4 @@ Based in Toronto, open to relocating to Montreal.
 **Find me:**
 [GitHub](https://github.com/Amaalim1) ·
 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) ·
-[Email](mailto:you@example.com) ·
-[Resume](/resume/)
+[Email](mailto:you@example.com) 
