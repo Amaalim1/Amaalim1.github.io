@@ -93,9 +93,10 @@ side projects and educational content.
 <h3>Education</h3>
 
 Honours Bachelor of Information Technology(Cybersecurity)— Seneca Polytechnic.
-<h3> </h3>
+
 
 Certifications: AZ-900 · Security+
+
 
 <h3>Core Areas of Interes</h3>
 
