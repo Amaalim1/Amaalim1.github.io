@@ -55,7 +55,7 @@ permalink: /
   <div class="profile-sidebar">
    <img src="/suit.png" alt="Abdiaziz Maalim">
     <h2>Abdiaziz Maalim</h2>
-    <div class="tagline">Cybersecurity student focused on detection engineering, threat intelligence, and blue teaming.</div>
+    <div class="tagline">Cybersecurity Professional focused on Security Operations, detection engineering, threat intelligence, and blue teaming.</div>
     <ul>
       <li>📍 Toronto, ON </li>
       <li>💻 <a href="https://github.com/Amaalim1">GitHub</a></li>
@@ -67,37 +67,43 @@ permalink: /
 
 <h3>About me</h3>
 
-Cybersecurity student at Seneca Polytechnic, completing an Honours Bachelor of
-Information Technology in Cybersecurity (expected 2026). I focus on detection
-engineering, threat intelligence, and blue team operations, with growing
-interest in purple teaming and offensive security.
+I am a cybersecurity professional focusing on Security Operations, Incident Reponse, detection engineering, threat
+intelligence, and blue team operations, with a growing interest in purple
+teaming. I hold an Honours Bachelor of Information
+Technology in Cybersecurity from Seneca Polytechnic, and I bring hands-on
+experience across SIEM platforms, threat detection workflows, and security
+frameworks including MITRE ATT&CK, NIST CSF, ISO 27001, and CIS Controls.
 
-Currently wrapping up SPR888, an AI-powered Cyber Threat Intelligence
-Knowledge Base built with Python, Streamlit, ChromaDB, FastAPI, and
-GPT-4o-mini — see <a href="/projects/">Projects</a> for details.
+I'm always working on side projects related to detection engineering and
+threat intelligence. you can find those on my
+<a href="https://github.com/Amaalim1">GitHub</a>, where I post about
+side projects and educational content.
 
 <h3>Work Experience</h3>
 
-**Cyber Threat Detection Analyst (Co-op)** — TD Bank
-*Jan–Apr 2026*
+<p><strong>Cyber Threat Detection Analyst (Co-op)</strong> - TD Bank<br>
+<em>Jan–Apr 2026</em></p>
 
-**Enterprise Security Support** — Dream Unlimited
-*Jul 2024–Mar 2025*
+<p><strong>Enterprise Security Support</strong> - Dream Unlimited<br>
+<em>Jul 2024–Mar 2025</em></p>
 
-**IT Security Support** — Canadian Appliance Source
-*Mar 2020–Aug 2023*
+<p><strong>IT Security Support</strong> - Canadian Appliance Source<br>
+<em>Mar 2020–Aug 2023</em></p>
 
 <h3>Education</h3>
 
 **Honours Bachelor of Information Technology, Cybersecurity**
-Seneca Polytechnic — expected 2026
+Seneca Polytechnic 
 
 **Certifications:** AZ-900 · Security+ (in progress)
 
-<h3>Core Stack</h3>
+<h3>Core Areas of Interes</h3>
 
-Microsoft Sentinel, Splunk, Defender XDR, KQL, Python, PowerShell —
-with framework grounding in MITRE ATT&CK, NIST CSF, ISO 27001, and CIS Controls.
+Security Operations (SOC), Threat Detection & Incident Investigation, SIEM & EDR Monitoring, Threat Intelligence, Threat Hunting, Incident Response,  Vulnerability Management. Identity & Access Management.
+
+<h3>Technologies and Tools</h3>
+
+Microsoft Sentinel, Microsoft Defender XDR, Splunk, ServiceNow, Active Directory, Microsoft Entra ID, PowerShell, Python. KQL.
 
   </div>
 </div>
