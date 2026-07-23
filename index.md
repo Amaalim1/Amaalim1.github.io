@@ -57,11 +57,9 @@ permalink: /
     <h2>Abdiaziz Maalim</h2>
     <div class="tagline">Cybersecurity student focused on detection engineering, threat intelligence, and blue teaming.</div>
     <ul>
-      <li>📍 Toronto, ON (open to Montreal)</li>
-      <li>✉️ <a href="mailto:you@example.com">you@example.com</a></li>
+      <li>📍 Toronto, ON </li>
       <li>💻 <a href="https://github.com/Amaalim1">GitHub</a></li>
       <li>🔗 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a></li>
-      <li>📄 <a href="/resume/">Resume</a></li>
     </ul>
   </div>
 
