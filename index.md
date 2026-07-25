@@ -16,11 +16,11 @@ permalink: /
   </div>
 </div>
 
+{% include tabnav.html %}
+
 <div class="profile-layout">
   <div class="profile-sidebar">
     <img src="/assets/img-01.jpg" alt="Abdiaziz Maalim">
-    <h2>Abdiaziz Maalim</h2>
-    <div class="tagline">Cybersecurity Professional focused on Security Operations, detection engineering, threat intelligence, and blue teaming.</div>
     <ul>
       <li>📍 Toronto, ON</li>
       <li>💻 <a href="https://github.com/Amaalim1">GitHub</a></li>
@@ -30,7 +30,7 @@ permalink: /
 
   <div class="profile-main" markdown="1">
 
-<h3>About me</h3>
+<h3 id="about">About me</h3>
 
 I am a cybersecurity professional focusing on Security Operations, Incident
 Response, detection engineering, threat intelligence, and blue team
@@ -43,7 +43,7 @@ related to detection engineering and threat intelligence — you can find
 those on my <a href="https://github.com/Amaalim1">GitHub</a>, where I post
 about side projects and educational content.
 
-<h3>Work Experience</h3>
+<h3 id="work-experience">Work Experience</h3>
 
 <p><strong>Cyber Threat Detection Analyst (Co-op)</strong> — TD Bank<br>
 <em>Jan–Apr 2026</em></p>
@@ -54,11 +54,11 @@ about side projects and educational content.
 <p><strong>IT Security Support</strong> — Canadian Appliance Source<br>
 <em>Mar 2020–Aug 2023</em></p>
 
-<h3>Education</h3>
+<h3 id="education">Education</h3>
 
 Honours Bachelor of Information Technology (Cybersecurity) — Seneca Polytechnic
 
-<h3>Skills</h3>
+<h3 id="skills">Skills</h3>
 
 <div class="skill-grid">
   <div class="skill-card">
@@ -106,7 +106,7 @@ Honours Bachelor of Information Technology (Cybersecurity) — Seneca Polytechni
 ### Let's Connect
 
 <a href="mailto:you@example.com">📧 Email</a>
-<a href="https:https://www.linkedin.com/in/abdiaziz-maalim/">💼 LinkedIn</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">💼 LinkedIn</a>
 <a href="https://github.com/Amaalim1">💻 GitHub</a>
 <a href="/resume/">📄 Resume</a>
 
