@@ -4,6 +4,8 @@ title: Home
 permalink: /
 ---
 
+<div class="page-wrap">
+
 <div class="hero">
   <h1>Abdiaziz Maalim</h1>
   <div class="hero-title">Cybersecurity Analyst</div>
@@ -16,7 +18,14 @@ permalink: /
   </div>
 </div>
 
-{% include tabnav.html %}
+<nav class="custom-nav">
+  <a href="#" class="tab-link active" data-tab="about">About</a>
+  <a href="#" class="tab-link" data-tab="work">Work Experience</a>
+  <a href="#" class="tab-link" data-tab="education">Education</a>
+  <a href="#" class="tab-link" data-tab="skills">Skills</a>
+  <a href="/projects/">Projects</a>
+  <a href="/writeups/">Writeups</a>
+</nav>
 
 <div class="profile-layout">
   <div class="profile-sidebar">
@@ -28,9 +37,11 @@ permalink: /
     </ul>
   </div>
 
-  <div class="profile-main" markdown="1">
+  <div class="profile-main">
 
-<h3 id="about">About me</h3>
+<div class="tab-panel" id="panel-about" markdown="1">
+
+<h3>About me</h3>
 
 I am a cybersecurity professional focusing on Security Operations, Incident
 Response, detection engineering, threat intelligence, and blue team
@@ -43,7 +54,11 @@ related to detection engineering and threat intelligence — you can find
 those on my <a href="https://github.com/Amaalim1">GitHub</a>, where I post
 about side projects and educational content.
 
-<h3 id="work-experience">Work Experience</h3>
+</div>
+
+<div class="tab-panel" id="panel-work" style="display:none;" markdown="1">
+
+<h3>Work Experience</h3>
 
 <p><strong>Cyber Threat Detection Analyst (Co-op)</strong> — TD Bank<br>
 <em>Jan–Apr 2026</em></p>
@@ -54,11 +69,19 @@ about side projects and educational content.
 <p><strong>IT Security Support</strong> — Canadian Appliance Source<br>
 <em>Mar 2020–Aug 2023</em></p>
 
-<h3 id="education">Education</h3>
+</div>
+
+<div class="tab-panel" id="panel-education" style="display:none;" markdown="1">
+
+<h3>Education</h3>
 
 Honours Bachelor of Information Technology (Cybersecurity) — Seneca Polytechnic
 
-<h3 id="skills">Skills</h3>
+</div>
+
+<div class="tab-panel" id="panel-skills" style="display:none;">
+
+<h3>Skills</h3>
 
 <div class="skill-grid">
   <div class="skill-card">
@@ -98,6 +121,8 @@ Honours Bachelor of Information Technology (Cybersecurity) — Seneca Polytechni
   </div>
 </div>
 
+</div>
+
   </div>
 </div>
 
@@ -111,3 +136,21 @@ Honours Bachelor of Information Technology (Cybersecurity) — Seneca Polytechni
 <a href="/resume/">📄 Resume</a>
 
 </div>
+
+</div>
+
+<script>
+document.querySelectorAll('.tab-link[data-tab]').forEach(function(tab) {
+  tab.addEventListener('click', function(e) {
+    e.preventDefault();
+    document.querySelectorAll('.tab-link[data-tab]').forEach(function(t) {
+      t.classList.remove('active');
+    });
+    this.classList.add('active');
+    document.querySelectorAll('.tab-panel').forEach(function(panel) {
+      panel.style.display = 'none';
+    });
+    document.getElementById('panel-' + this.dataset.tab).style.display = 'block';
+  });
+});
+</script>
