@@ -75,7 +75,8 @@ about side projects and educational content.
 
 <h3>Education</h3>
 
-Honours Bachelor of Information Technology (Cybersecurity)   **Seneca Polytechnic**
+Honours Bachelor of Information Technology (Cybersecurity)
+**Seneca Polytechnic**
 
 </div>
 
@@ -85,7 +86,7 @@ Honours Bachelor of Information Technology (Cybersecurity)   **Seneca Polytechni
 
 <div class="skill-grid">
   <div class="skill-card">
-    <h4>Security</h4>
+    <h4>Security Tools</h4>
     <ul>
       <li>Microsoft Sentinel</li>
       <li>Defender XDR</li>
