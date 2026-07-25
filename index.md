@@ -24,7 +24,6 @@ permalink: /
   <a href="#" class="tab-link" data-tab="education">Education</a>
   <a href="#" class="tab-link" data-tab="skills">Skills</a>
   <a href="/projects/">Projects</a>
-  <a href="/writeups/">Writeups</a>
 </nav>
 
 <div class="profile-layout">
