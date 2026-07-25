@@ -205,3 +205,8 @@ a {
 .custom-nav a:hover {
   color: var(--accent);
 }
+.page-wrap {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
