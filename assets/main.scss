@@ -186,3 +186,22 @@ a {
 .profile-main h3:first-child {
   margin-top: 0;
 }
+.custom-nav {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 18px 0;
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.custom-nav a {
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.95em;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+.custom-nav a:hover {
+  color: var(--accent);
+}
