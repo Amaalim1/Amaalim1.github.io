@@ -110,9 +110,7 @@ a {
   margin-top: 15px;
 }
 .skill-card {
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 14px 16px;
+  padding: 0;
 }
 .skill-card h4 {
   margin: 0 0 8px;
@@ -214,4 +212,8 @@ a {
   color: var(--accent);
   border-bottom: 2px solid var(--accent);
   padding-bottom: 4px;
+}
+.wrapper {
+  max-width: 900px !important;
+  margin: 0 auto !important;
 }
