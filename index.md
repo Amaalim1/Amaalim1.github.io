@@ -9,9 +9,8 @@ permalink: /
 <div class="hero">
   <h1>Abdiaziz Maalim</h1>
   <div class="hero-title">Cybersecurity Analyst</div>
-  <div class="hero-tags">Threat Detection • Incident Response • SIEM Engineering • Threat Intelligence</div>
+  <div class="hero-tags"> SOC Operations • Threat Detection • Incident Response • Threat Intelligence • SIEM Engineering</div>
   <div class="hero-buttons">
-    <a href="/resume/">Resume</a>
     <a href="https://github.com/Amaalim1">GitHub</a>
     <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
     <a href="mailto:you@example.com">Email</a>
@@ -32,7 +31,7 @@ permalink: /
     <ul>
       <li>📍 Toronto, ON</li>
       <li>💻 <a href="https://github.com/Amaalim1">GitHub</a></li>
-      <li>🔗 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a></li>
+      <li>🔗 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abdiaziz-maalim/">LinkedIn</a></li>
     </ul>
   </div>
 
@@ -85,42 +84,71 @@ Honours Bachelor of Information Technology (Cybersecurity)
 <h3>Skills</h3>
 
 <div class="skill-grid">
+
   <div class="skill-card">
     <h4>Security Tools</h4>
     <ul>
       <li>Microsoft Sentinel</li>
-      <li>Defender XDR</li>
+      <li>Microsoft Defender XDR</li>
+      <li>Microsoft Defender for Endpoint</li>
       <li>Splunk</li>
       <li>Wazuh</li>
+      <li>ServiceNow</li>
     </ul>
   </div>
+
   <div class="skill-card">
-    <h4>Programming</h4>
+    <h4>Programming & Query Languages</h4>
     <ul>
       <li>Python</li>
       <li>PowerShell</li>
       <li>KQL</li>
       <li>SQL</li>
+      <li>Bash</li>
     </ul>
   </div>
+
   <div class="skill-card">
     <h4>Cloud & Identity</h4>
     <ul>
-      <li>Azure</li>
+      <li>Microsoft Azure</li>
       <li>Microsoft Entra ID</li>
       <li>Active Directory</li>
+      <li>Microsoft Intune</li>
     </ul>
   </div>
+
+  <div class="skill-card">
+    <h4>Networking</h4>
+    <ul>
+      <li>TCP/IP</li>
+      <li>DNS</li>
+      <li>DHCP</li>
+      <li>VPN</li>
+      <li>Wireshark</li>
+    </ul>
+  </div>
+
+  <div class="skill-card">
+    <h4>Security Concepts</h4>
+    <ul>
+      <li>Threat Detection</li>
+      <li>Incident Response</li>
+      <li>Detection Engineering</li>
+      <li>Threat Intelligence</li>
+      <li>Security Monitoring</li>
+      <li>Log Analysis</li>
+    </ul>
+  </div>
+
   <div class="skill-card">
     <h4>Frameworks</h4>
     <ul>
-      <li>MITRE ATT&CK</li>
+      <li>MITRE ATT&amp;CK</li>
       <li>NIST CSF</li>
-      <li>ISO 27001</li>
       <li>CIS Controls</li>
     </ul>
   </div>
-</div>
 
 </div>
 
@@ -132,9 +160,8 @@ Honours Bachelor of Information Technology (Cybersecurity)
 ### Let's Connect
 
 <a href="mailto:you@example.com">📧 Email</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">💼 LinkedIn</a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abdiaziz-maalim/">💼 LinkedIn</a>
 <a href="https://github.com/Amaalim1">💻 GitHub</a>
-<a href="/resume/">📄 Resume</a>
 
 </div>
 
