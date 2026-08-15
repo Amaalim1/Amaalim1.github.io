@@ -52,6 +52,7 @@ related to detection engineering and threat intelligence — you can find
 those on my <a href="https://github.com/Amaalim1">GitHub</a>, where I post
 about side projects and educational content.
 
+Beyond traditional Cybersecurity, I'm increasingly interested in cybercrime, fraud investigations, financial crime detection, and risk analysis. I enjoy the investigative side of cybersecurity and the process of identifying patterns, analyzing suspicious activity, and turning data into actionable findings.
 </div>
 
 <div class="tab-panel" id="panel-work" style="display:none;" markdown="1">
