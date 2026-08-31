@@ -7,6 +7,12 @@ permalink: /projects/
 {% include tabnav.html %}
 <div class="project-grid">
 <div class="project-card">
+  <h4>Cloud Detection Lab (floci)</h4>
+  <p class="project-tags">AWS · Docker · IAM · S3 · MITRE ATT&CK</p>
+  <p>Local AWS emulation lab built on floci, simulating IAM misconfiguration, public S3 exposure, and a full attack chain (discovery → exfiltration → persistence) mapped to MITRE ATT&CK Cloud techniques.</p>
+  <a href="https://github.com/Amaalim1/Floci-Lab">View on GitHub →</a>
+</div>
+<div class="project-card">
   <h4>AI-Powered Cyber Threat Intelligence Knowledge Base</h4>
   <p class="project-tags">Python · Streamlit · ChromaDB · FastAPI · GPT-4o-mini</p>
   <p>RAG-powered analyst portal ingesting from six threat intel sources (MITRE ATT&CK, NVD/CVE, AlienVault OTX, URLhaus, Blocklist.de, CrowdSec) with keyword search and Quick Insight views.</p>
