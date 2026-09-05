@@ -29,7 +29,7 @@ permalink: /
   <div class="profile-sidebar">
     <img src="/assets/img-01.jpg" alt="Abdiaziz Maalim">
     <ul>
-      <li>📍 Toronto, ON</li>
+      <li>📍 Canada </li>
       <li>💻 <a href="https://github.com/Amaalim1">GitHub</a></li>
       <li>🔗 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abdiaziz-maalim/">LinkedIn</a></li>
     </ul>
@@ -95,6 +95,13 @@ Honours Bachelor of Information Technology (Cybersecurity)
       <li>Splunk</li>
       <li>Wazuh</li>
       <li>ServiceNow</li>
+      <li>Burp Suite<li> 
+      <li>Ffuf<li>
+      <li>Wfuzz<li>
+      <li>Metasploit<li>
+      <li>Wireshark<li>
+      <li>Nmap<li>
+      <li>Qualys<li>
     </ul>
   </div>
 
@@ -148,6 +155,7 @@ Honours Bachelor of Information Technology (Cybersecurity)
       <li>MITRE ATT&amp;CK</li>
       <li>NIST CSF</li>
       <li>CIS Controls</li>
+      <li>OWASP Top 10<li>
     </ul>
   </div>
 
