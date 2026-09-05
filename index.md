@@ -4,6 +4,27 @@ title: Home
 permalink: /
 ---
 
+<style>
+.skill-grid {
+  column-count: 2;
+  column-gap: 2.5rem;
+}
+
+.skill-card {
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  margin-bottom: 1.75rem;
+  display: inline-block;
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  .skill-grid {
+    column-count: 1;
+  }
+}
+</style>
+
 <div class="page-wrap">
 
 <div class="hero">
@@ -29,9 +50,9 @@ permalink: /
   <div class="profile-sidebar">
     <img src="/assets/img-01.jpg" alt="Abdiaziz Maalim">
     <ul>
-      <li>📍 Canada </li>
-      <li>💻 <a href="https://github.com/Amaalim1">GitHub</a></li>
-      <li>🔗 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abdiaziz-maalim/">LinkedIn</a></li>
+      <li>Location: Canada</li>
+      <li>GitHub: <a href="https://github.com/Amaalim1">github.com/Amaalim1</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/abdiaziz-maalim/">linkedin.com/in/abdiaziz-maalim</a></li>
     </ul>
   </div>
 
@@ -59,14 +80,14 @@ Beyond traditional Security Operations, I'm increasingly interested in cybercrim
 
 <h3>Work Experience</h3>
 
-<p><strong>Cyber Threat Detection Analyst (Co-op)</strong> — TD Bank<br>
-<em>Jan–Apr 2026</em></p>
+<p><strong>Cyber Threat Detection Analyst (Co-op)</strong>, TD Bank<br>
+<em>Jan 2026 to Apr 2026</em></p>
 
-<p><strong>Enterprise Security Support</strong> — Dream Unlimited<br>
-<em>Jul 2024–Mar 2025</em></p>
+<p><strong>Enterprise Security Support</strong>, Dream Unlimited<br>
+<em>Jul 2024 to Mar 2025</em></p>
 
-<p><strong>IT Security Support</strong> — Canadian Appliance Source<br>
-<em>Mar 2020–Aug 2023</em></p>
+<p><strong>IT Security Support</strong>, Canadian Appliance Source<br>
+<em>Mar 2020 to Aug 2023</em></p>
 
 </div>
 
@@ -157,9 +178,9 @@ Honours Bachelor of Information Technology (Cybersecurity)
 
 ### Let's Connect
 
-<a href="mailto:you@example.com">📧 Email</a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abdiaziz-maalim/">💼 LinkedIn</a>
-<a href="https://github.com/Amaalim1">💻 GitHub</a>
+<a href="mailto:you@example.com">Email</a>
+<a href="https://www.linkedin.com/in/abdiaziz-maalim/">LinkedIn</a>
+<a href="https://github.com/Amaalim1">GitHub</a>
 
 </div>
 
