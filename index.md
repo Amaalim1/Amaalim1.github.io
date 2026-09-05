@@ -6,38 +6,24 @@ permalink: /
 
 <style>
 .tab-panel#panel-skills .skill-grid {
-  display: grid;
-  grid-template-columns: repeat(6, minmax(130px, 1fr));
-  column-gap: 1.75rem;
-  row-gap: 0;
-  align-items: start;
-  overflow-x: auto;
+  display: block;
+  column-count: 2;
+  column-gap: 2.5rem;
 }
 
 .tab-panel#panel-skills .skill-card {
-  margin-bottom: 0;
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  margin-bottom: 1.75rem;
+  display: inline-block;
+  width: 100%;
+  vertical-align: top;
 }
 
-.tab-panel#panel-skills .skill-card h4 {
-  margin-top: 0;
-  margin-bottom: 0.6rem;
-}
-
-.tab-panel#panel-skills .skill-card ul {
-  margin: 0;
-  padding-left: 1.1rem;
-}
-
-@media (max-width: 900px) {
+@media (max-width: 600px) {
   .tab-panel#panel-skills .skill-grid {
-    grid-template-columns: repeat(3, minmax(130px, 1fr));
-    row-gap: 1.75rem;
-  }
-}
-
-@media (max-width: 500px) {
-  .tab-panel#panel-skills .skill-grid {
-    grid-template-columns: 1fr;
+    column-count: 1;
   }
 }
 </style>
@@ -67,10 +53,7 @@ permalink: /
   <div class="profile-sidebar">
     <img src="/assets/img-01.jpg" alt="Abdiaziz Maalim">
     <ul>
-      <li>Location: Canada</li>
-      <li>GitHub: <a href="https://github.com/Amaalim1">github.com/Amaalim1</a></li>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/abdiaziz-maalim/">linkedin.com/in/abdiaziz-maalim</a></li>
-    </ul>
+
   </div>
 
   <div class="profile-main">
