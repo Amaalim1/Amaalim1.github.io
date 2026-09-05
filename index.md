@@ -5,21 +5,24 @@ permalink: /
 ---
 
 <style>
-.skill-grid {
+.tab-panel#panel-skills .skill-grid {
+  display: block;
   column-count: 2;
   column-gap: 2.5rem;
 }
 
-.skill-card {
+.tab-panel#panel-skills .skill-card {
   break-inside: avoid;
   -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
   margin-bottom: 1.75rem;
   display: inline-block;
   width: 100%;
+  vertical-align: top;
 }
 
 @media (max-width: 600px) {
-  .skill-grid {
+  .tab-panel#panel-skills .skill-grid {
     column-count: 1;
   }
 }
