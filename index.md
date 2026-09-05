@@ -81,87 +81,76 @@ Honours Bachelor of Information Technology (Cybersecurity)
 </div>
 
 <div class="tab-panel" id="panel-skills" style="display:none;">
-
 <h3>Skills</h3>
-
 <div class="skill-grid">
-
-  <div class="skill-card">
-    <h4>Security Tools</h4>
-    <ul>
-      <li>Microsoft Sentinel</li>
-      <li>Microsoft Defender XDR</li>
-      <li>Microsoft Defender for Endpoint</li>
-      <li>Splunk</li>
-      <li>Wazuh</li>
-      <li>ServiceNow</li>
-      <li>Burp Suite<li> 
-      <li>Ffuf<li>
-      <li>Wfuzz<li>
-      <li>Metasploit<li>
-      <li>Wireshark<li>
-      <li>Nmap<li>
-      <li>Qualys<li>
-    </ul>
-  </div>
-
-  <div class="skill-card">
-    <h4>Programming & Query Languages</h4>
-    <ul>
-      <li>Python</li>
-      <li>PowerShell</li>
-      <li>KQL</li>
-      <li>SQL</li>
-      <li>Bash</li>
-    </ul>
-  </div>
-
-  <div class="skill-card">
-    <h4>Cloud & Identity</h4>
-    <ul>
-      <li>Microsoft Azure</li>
-      <li>Microsoft Entra ID</li>
-      <li>Active Directory</li>
-      <li>Microsoft Intune</li>
-    </ul>
-  </div>
-
-  <div class="skill-card">
-    <h4>Networking</h4>
-    <ul>
-      <li>TCP/IP</li>
-      <li>DNS</li>
-      <li>DHCP</li>
-      <li>VPN</li>
-      <li>Wireshark</li>
-    </ul>
-  </div>
-
-  <div class="skill-card">
-    <h4>Security Concepts</h4>
-    <ul>
-      <li>Threat Detection</li>
-      <li>Incident Response</li>
-      <li>Detection Engineering</li>
-      <li>Threat Intelligence</li>
-      <li>Security Monitoring</li>
-      <li>Log Analysis</li>
-    </ul>
-  </div>
-
-  <div class="skill-card">
-    <h4>Frameworks</h4>
-    <ul>
-      <li>MITRE ATT&amp;CK</li>
-      <li>NIST CSF</li>
-      <li>CIS Controls</li>
-      <li>OWASP Top 10<li>
-    </ul>
-  </div>
-
+<div class="skill-card">
+<h4>Security Tools</h4>
+<ul>
+<li>Microsoft Sentinel</li>
+<li>Microsoft Defender XDR</li>
+<li>Microsoft Defender for Endpoint</li>
+<li>Splunk</li>
+<li>Wazuh</li>
+<li>ServiceNow</li>
+<li>Burp Suite</li>
+<li>Ffuf</li>
+<li>Wfuzz</li>
+<li>Metasploit</li>
+<li>Wireshark</li>
+<li>Nmap</li>
+<li>Qualys</li>
+</ul>
 </div>
-
-  </div>
+<div class="skill-card">
+<h4>Programming & Query Languages</h4>
+<ul>
+<li>Python</li>
+<li>PowerShell</li>
+<li>KQL</li>
+<li>SQL</li>
+<li>Bash</li>
+</ul>
+</div>
+<div class="skill-card">
+<h4>Cloud & Identity</h4>
+<ul>
+<li>Microsoft Azure</li>
+<li>Microsoft Entra ID</li>
+<li>Active Directory</li>
+<li>Microsoft Intune</li>
+</ul>
+</div>
+<div class="skill-card">
+<h4>Networking</h4>
+<ul>
+<li>TCP/IP</li>
+<li>DNS</li>
+<li>DHCP</li>
+<li>VPN</li>
+<li>Wireshark</li>
+</ul>
+</div>
+<div class="skill-card">
+<h4>Security Concepts</h4>
+<ul>
+<li>Threat Detection</li>
+<li>Incident Response</li>
+<li>Detection Engineering</li>
+<li>Threat Intelligence</li>
+<li>Security Monitoring</li>
+<li>Log Analysis</li>
+</ul>
+</div>
+<div class="skill-card">
+<h4>Frameworks</h4>
+<ul>
+<li>MITRE ATT&amp;CK</li>
+<li>NIST CSF</li>
+<li>CIS Controls</li>
+<li>OWASP Top 10</li>
+</ul>
+</div>
+</div>
 </div>
 
 <div class="contact-section" markdown="1">
