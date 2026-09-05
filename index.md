@@ -52,8 +52,6 @@ permalink: /
 <div class="profile-layout">
   <div class="profile-sidebar">
     <img src="/assets/img-01.jpg" alt="Abdiaziz Maalim">
-    <ul>
-
   </div>
 
   <div class="profile-main">
