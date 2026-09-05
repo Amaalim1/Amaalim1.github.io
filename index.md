@@ -48,7 +48,7 @@ Bachelor of Information Technology in Cybersecurity from Seneca
 Polytechnic, and I bring hands-on experience across SIEM platforms, threat
 detection workflows, and security frameworks including MITRE ATT&CK, NIST
 CSF, ISO 27001, and CIS Controls. I'm always working on side projects
-related to detection engineering and threat intelligence — you can find
+to keep my skills sharp. you can find
 those on my <a href="https://github.com/Amaalim1">GitHub</a>, where I post
 about side projects and educational content.
 
