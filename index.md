@@ -33,7 +33,7 @@ permalink: /
 <div class="hero">
   <h1>Abdiaziz Maalim</h1>
   <div class="hero-title">Cybersecurity Analyst</div>
-  <div class="hero-tags"> SOC Operations • Threat Detection • Incident Response • Threat Intelligence • SIEM Engineering</div>
+  <div class="hero-tags"> SOC Operations • Threat Detection • Incident Response • Threat Intelligence • SIEM Engineering • AI</div>
   <div class="hero-buttons">
     <a href="https://github.com/Amaalim1">GitHub</a>
     <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
@@ -71,7 +71,7 @@ to keep my skills sharp. you can find
 those on my <a href="https://github.com/Amaalim1">GitHub</a>, where I post
 about side projects and educational content.
 
-Beyond traditional Security Operations, I'm increasingly interested in cybercrime, fraud investigations, financial crime detection, and risk analysis. I enjoy the investigative side of cybersecurity and the process of identifying patterns, analyzing suspicious activity, and turning data into actionable findings.
+Beyond traditional Security Operations, I'm increasingly interested in AI, Cybercrime, fraud investigations, financial crime detection, and risk analysis. I enjoy the investigative side of Cybersecurity and the process of identifying patterns, analyzing suspicious activity, and turning data into actionable findings.
 </div>
 
 <div class="tab-panel" id="panel-work" style="display:none;" markdown="1">
@@ -84,7 +84,7 @@ Beyond traditional Security Operations, I'm increasingly interested in cybercrim
 <p><strong>Enterprise Security Support</strong>, Dream Unlimited<br>
 <em>Jul 2024 to Mar 2025</em></p>
 
-<p><strong>IT Security Support</strong>, Canadian Appliance Source<br>
+<p><strong>IT  Support</strong>, Canadian Appliance Source<br>
 <em>Mar 2020 to Aug 2023</em></p>
 
 </div>
