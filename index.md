@@ -78,7 +78,7 @@ Beyond traditional Security Operations, I'm increasingly interested in AI, Cyber
 
 <h3>Work Experience</h3>
 
-<p><strong>Cyber Threat Detection Analyst (Co-op)</strong>, TD Bank<br>
+<p><strong>Cybersecurity Analyst (Co-op)</strong>, TD Bank<br>
 <em>Jan 2026 to Apr 2026</em></p>
 
 <p><strong>Enterprise Security Support</strong>, Dream Unlimited<br>
