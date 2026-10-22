@@ -3,15 +3,15 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+<div class="page-wrap">
+{% include tabnav.html %}
+<div class="project-grid">
 <div class="project-card">
   <h4>IAM Lifecycle: Joiner, Mover, Leaver</h4>
   <p class="project-tags">Entra ID · Microsoft Graph · PowerShell · KQL · Microsoft Sentinel</p>
   <p>Step-by-step identity lifecycle runbooks for onboarding, role changes, and offboarding, with Graph PowerShell automation, Mermaid diagrams, and KQL detections for privilege creep and leaver sign-ins, mapped to NIST CSF, ISO 27001, and CIS Controls.</p>
   <a href="https://github.com/Amaalim1/iam-lifecycle-jml">View on GitHub →</a>
 </div>
-<div class="page-wrap">
-{% include tabnav.html %}
-<div class="project-grid">
 <div class="project-card">
   <h4>Cloud Detection Lab (floci)</h4>
   <p class="project-tags">AWS · Docker · IAM · S3 · MITRE ATT&CK</p>
